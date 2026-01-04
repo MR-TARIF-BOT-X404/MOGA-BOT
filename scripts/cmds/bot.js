@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const baseApiUrl = () => 'https://www.noobs-api.rf.gd/dipto';
+const baseApiUrl = () => `https://api.noobs-api.rf.gd/dipto';
 
 const prefixes = [
   "bby", "janu", "বাবু", "babu", "bbu", "botli", "bot",
